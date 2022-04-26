@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 * [tinyproto](https://github.com/lexus2k/tinyproto) - Protocol for fault-free communicating between microcontrollers over SPI, UART
 * [lcdgfx](https://github.com/lexus2k/lcdgfx) - C++ style graphics library for different OLED and LCD displays.
 * [ssd1306](https://github.com/lexus2k/ssd1306) - C style graphics library for different OLED and LCD displays.
+* [nixie_clock](https://github.com/lexus2k/nixie_clock) - ESP32 C/C++ style firmware sources for Nixie Clocks.
 
 ### Software
 
