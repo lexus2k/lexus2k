@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 * [nixie_hardware](https://github.com/lexus2k/nixie_hardware) ESP32 hardware design for Nixie Clocks.
 * [bot_trader](https://github.com/lexus2k/bot_trader) - Telegram-controlled bot for trading system.
 * [ArduPlc](https://github.com/lexus2k/arduplc) - HW and SW for Press Machine controller
+* [uProfiler](https://github.com/lexus2k/uprofiler) - C style profiler library for profiling remote systems: mcu/cpu
 
 ### Software
 
