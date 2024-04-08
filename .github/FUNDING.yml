@@ -12,5 +12,4 @@ lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cl
 polar: # Replace with a single Polar username
 buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
 custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
-bitcoin: 3CtUY6Ag2zsvm1JyqeeKeK8kjdG7Tnjr5W
-ethereum: 0x20608A71470Bc84a3232621819f578Fb9C02A460
+custom: [bitcoin: 3CtUY6Ag2zsvm1JyqeeKeK8kjdG7Tnjr5W, etherium: 0x20608A71470Bc84a3232621819f578Fb9C02A460]
